@@ -44,5 +44,5 @@ Cluster: cluster-desafio-dataproc \
 Tipo de Job: PySpark \
 Arquivo Python Principal: gs://dataprocdesafio/contador.py
 
-- Como resultado da execução do job foi gerado o arquivo [resultado_part-00000]() na pasta resultado no Cloud Storage.
-- Foi criado o arquivo [resultado.txt]() e foi inserido nele as 10 primeiras linhas do arquivo **resultado_part-00000**.
+- Como resultado da execução do job foi gerado o arquivo [resultado_part-00000](https://github.com/lilacostaro/dataproc_dio_desafio/blob/main/resultado_part-00000) na pasta resultado no Cloud Storage.
+- Foi criado o arquivo [resultado.txt](https://github.com/lilacostaro/dataproc_dio_desafio/blob/main/resultado.txt) e foi inserido nele as 10 primeiras linhas do arquivo **resultado_part-00000**.
